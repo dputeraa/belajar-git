@@ -6,3 +6,6 @@ console.log(subtract(5,4));
 
 const multiplay = (a,b) => a*b;
 console.log(multiplay(2,5));
+
+const divide = (a,b) => a/b;
+console.log(divide(4,2));
